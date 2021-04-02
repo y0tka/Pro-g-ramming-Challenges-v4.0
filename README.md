@@ -9,7 +9,7 @@
 - [ ] Markov Chain Sentence Generator `(4)`
 - [ ] To-Do List Application (Web app or CLI) `(10)`
 - [ ] Chatbot (with conversation retention) `(15)`
-- [ ] Image to ASCII Art `(18)`
+- [x] Image to ASCII Art `(18)`
 - [ ] Imageboard (Imagine vichan) `(25)`
 - [ ] Create an HSV Color Representation `(35)`
 - [ ] Port Scanner `(42)`
