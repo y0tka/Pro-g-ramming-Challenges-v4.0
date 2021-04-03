@@ -40,7 +40,7 @@ permalink: /
 ### Emulation/Modeling
 
 - [ ] Generate a Complimentary Color from any input color `(96)`
-- [ ] *Generate a 5-Color Scheme from the mot dominant tones in any image* `(97)`
+- [ ] *Generate a 5-Color Scheme from the most dominant tones in any image* `(97)`
 - [ ] Eulerian Path `(101)`
 - [ ] Draw a spinning 3D Cube `(102)`
 - [ ] Cellular Textures `(103)`
