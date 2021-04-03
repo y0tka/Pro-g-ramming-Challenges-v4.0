@@ -2,9 +2,6 @@
 layout: page
 permalink: /
 ---
-# Pro/g/ramming Challenges v4.0
-
-![](../image.png)
 
 ## Tasks
 
@@ -91,3 +88,6 @@ Below is a s small list of websites that contain additional challenges:
 - codeabbey.com
 - codingbat.com
 - programmingpraxis.com
+
+
+![](image.png)
