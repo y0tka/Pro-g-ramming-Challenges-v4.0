@@ -29,7 +29,7 @@ permalink: /
 - [ ] Hightest Prime Factor Calculator `(53)`
 - [ ] Password Generator (Let User Choose Options) `(56)`
 - [ ] Caesar Cipher Cracker `(59)`
-- [ ] ROT 13 `(61)`
+- [x] ROT 13 `(61)`
 - [ ] Encrypt/Decrypt Text: Implement at least one from https://rumkin.com/tools/cipher/collection `(64)`
 - [ ] Youtube to MP3 `(65)`
 - [ ] Text to Hexadecimal/Binary `(66)`
