@@ -83,11 +83,11 @@ Seriously, this is all you'll ever need. If you aren't getting results, you aren
 
 8. Hungry for More?  
 Below is a s small list of websites that contain additional challenges:
-- www.hackerrank.com
-- www.codechef.com
-- www.codefights.com
-- www.projecteuler.net - Math Problems with a focus on programming and algorithmic efficiency
-- www.rosettacode.org 
-- www.codeabbey.com
-- www.codingbat.com
-- www.programmingpraxis.com
+- hackerrank.com
+- codechef.com
+- codefights.com
+- projecteuler.net - Math Problems with a focus on programming and algorithmic efficiency
+- rosettacode.org 
+- codeabbey.com
+- codingbat.com
+- programmingpraxis.com

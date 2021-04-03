@@ -1,10 +1,10 @@
 # Ignore docs files
-pages/_gh_pages
-pages/_site
-pages/.ruby-version
-pages/.sass-cache
-pages/.jekyll-cache
-pages/Gemfile.lock
+_gh_pages
+_site
+.ruby-version
+.sass-cache
+.jekyll-cache
+Gemfile.lock
 
 # Numerous always-ignore extensions
 *.diff
