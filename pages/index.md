@@ -1,6 +1,10 @@
-# Pro`/g/`ramming Challenges, v4.0
+---
+layout: page
+permalink: /
+---
+# Pro/g/ramming Challenges v4.0
 
-![](pages/image.png)
+![](../image.png)
 
 ## Tasks
 
